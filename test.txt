@@ -1,2 +1,4 @@
 Add some text
 More text
+
+Text in new branch
