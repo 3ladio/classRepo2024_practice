@@ -1,4 +1,5 @@
 Add some text
 More text
 
-Text in new branch
+
+This is a crazy text
